@@ -1,3 +1,6 @@
+# Why do I have a fork of this?
+- this is my fork of the original books repo, this is a great book that I highly recommend. I am using this to add my own custom notes throughout to help me keep track of things
+
 Machine Learning Notebooks, 3rd edition
 =================================
 
